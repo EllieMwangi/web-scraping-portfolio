@@ -1,4 +1,3 @@
-import itertools
 from csv import DictWriter
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
